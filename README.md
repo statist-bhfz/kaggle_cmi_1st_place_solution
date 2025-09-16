@@ -6,4 +6,4 @@ Training notebooks from `public_solution_ogurtsov` could be mapped to inference 
 
 Devin's training code source: [github repo](https://github.com/danzelmo/cmi-detect-behavior-first-place-train)
 
-All parts of the solution are distributed under CC BY-NC-SA 4.0 License according to [competition rules](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data/rules#6.-winner-license-type).
+All parts of the solution are distributed under LGPL 2.1 License according to [competition rules](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data/rules#6.-winner-license-type).
